@@ -16,6 +16,11 @@ You can read the full 20-page research paper here:
 
 👉 [Avelino_Marban-Ramirez_NBA_Trade_Revenue_Impact.pdf](./Avelino_Marban-Ramirez_NBA_Trade_Revenue_Impact.pdf)
 
+## 📽️ Project Presentation
+You can view the final slide presentation here:
+
+👉 [Avi Marban final presentation.pdf](./Avi%20Marban%20final%20presentation.pdf)
+
 ## 📊 Key Insights
 - Trading for star players often led to revenue spikes the following season
 - Teams in larger metro areas saw stronger fan retention post-trade
